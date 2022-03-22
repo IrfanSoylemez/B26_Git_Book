@@ -1,0 +1,6 @@
+
+This is the start of my practicing git local repository.
+
+Today is weather rainy and cloudy
+
+Java is cool
