@@ -26,3 +26,7 @@ Write a method that will take an array as an argument and reverse it.
   // Note:
   // Array works with references(same objects) so if we will modify argument
   // it will have effect on an original array.
+
+Reverse words.
+Write a method that will take a string as an argument.
+The method will reverse the position of words and return it.
